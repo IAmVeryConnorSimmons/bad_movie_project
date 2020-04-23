@@ -1,6 +1,6 @@
 CREATE TABLE bad_movies (
     movie_title VARCHAR (255) NOT NULL,
-    year INTEGER NULL,
+    release_year INTEGER NULL,
     watchable INTEGER NULL,
     inadvertently_funny INTEGER NULL,
     believability INTEGER NULL,
