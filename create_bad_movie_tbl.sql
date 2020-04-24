@@ -4,7 +4,7 @@ CREATE TABLE bad_movie_reviews (
     release_year INTEGER NULL,
     watchable INTEGER NULL,
     inadvertently_funny INTEGER NULL,
-    believability INTEGER NULL,
+    plot_stregth INTEGER NULL,
     bad_acting INTEGER NULL,
     rewatchable INTEGER NULL,
     accessibility INTEGER NULL,
