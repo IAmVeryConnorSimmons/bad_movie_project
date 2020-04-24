@@ -1,5 +1,5 @@
-DROP TABLE IF EXISTS bad_movies;
-CREATE TABLE bad_movies (
+DROP TABLE IF EXISTS bad_movie_reviews;
+CREATE TABLE bad_movie_reviews (
     movie_title VARCHAR (255) NOT NULL,
     release_year INTEGER NULL,
     watchable INTEGER NULL,
