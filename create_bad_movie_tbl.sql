@@ -10,5 +10,6 @@ CREATE TABLE bad_movies (
     accessibility INTEGER NULL,
     production_quality INTEGER NULL,
     family_friendly INTEGER NULL,
-    most_memorable_performer VARCHAR (255)
+    most_memorable_performer VARCHAR (255),
+    review_contributor VARCHAR (255)
 );
